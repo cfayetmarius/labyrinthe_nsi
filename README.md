@@ -6,4 +6,3 @@ Requires :
 -vlc-python
 -tkinter 
 -python 3 or > 
-
